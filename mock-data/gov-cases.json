@@ -1,0 +1,38 @@
+[
+  {
+    "caseNo": "GOV-2026-001",
+    "applicant": "陈美琳",
+    "matter": "个体工商户设立登记",
+    "businessType": "服装零售（网络经营）",
+    "files": [
+      { "name": "个体工商户登记（备案）申请书.pdf", "required": true, "signed": true, "clear": true },
+      { "name": "经营者身份证复印件.jpg", "required": true, "clear": true, "valid": true },
+      { "name": "经营场所证明（租赁合同+房产证复印件）.pdf", "required": true, "clear": true, "address": "广州市天河区体育西路55号" },
+      { "name": "居民户口簿复印件.pdf", "required": false, "reason": "申请登记为家庭经营", "clear": true }
+    ],
+    "expected": "齐全合规，应予受理"
+  },
+  {
+    "caseNo": "GOV-2026-002",
+    "applicant": "刘建国",
+    "matter": "个体工商户设立登记",
+    "businessType": "餐饮服务",
+    "files": [
+      { "name": "个体工商户登记（备案）申请书.pdf", "required": true, "signed": false, "clear": true, "issue": "经营者签字栏空白" },
+      { "name": "经营者身份证复印件.jpg", "required": true, "clear": false, "valid": true, "issue": "复印件模糊，证件号码后四位无法辨认" }
+    ],
+    "expected": "缺经营场所证明（必交项缺失）+ 申请书未签字 + 身份证复印件模糊 —— 三处问题，一次性告知"
+  },
+  {
+    "caseNo": "GOV-2026-003",
+    "applicant": "黄诗雨",
+    "matter": "个体工商户设立登记",
+    "businessType": "网络直播带货（仅通过网络经营）",
+    "files": [
+      { "name": "个体工商户登记（备案）申请书.pdf", "required": true, "signed": true, "clear": true, "issue": "申请书填写的经营者姓名为\"黄诗雨\"，但身份证复印件显示为\"黄诗宇\"" },
+      { "name": "经营者身份证复印件.jpg", "required": true, "clear": true, "valid": true },
+      { "name": "经营场所证明（住所证明）.pdf", "required": true, "clear": true, "address": "长沙市岳麓区麓山南路1号", "note": "仅通过网络平台经营，以经营者住所作为经营场所登记" }
+    ],
+    "expected": "姓名不一致（诗雨/诗宇）→ 信息一致性核对不通过；网络经营用住所登记符合规定"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "autoupdate": false,
+  "provider": {
+    "sensenova": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "SenseNova",
+      "options": {
+        "baseURL": "https://token.sensenova.cn/v1",
+        "apiKey": "YOUR_LLM_KEY"
+      },
+      "models": {
+        "sensenova-6.8-flash-lite": { "name": "SenseNova 6.8 Flash Lite" },
+        "deepseek-v4-flash": { "name": "DeepSeek V4 Flash" },
+        "glm-5.2": { "name": "GLM 5.2" }
+      }
+    }
+  },
+  "model": "sensenova/sensenova-6.8-flash-lite",
+  "mcp": {
+    "business": {
+      "type": "local",
+      "command": ["node", "apps/mcp-tools/server.mjs"],
+      "enabled": true
+    }
+  }
+}

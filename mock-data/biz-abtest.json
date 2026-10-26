@@ -1,0 +1,35 @@
+[
+  { "caseNo": "AB-2026-001", "experiment": "商品详情页改版（新版大图+视频优先）", "hypothesis": "新版详情页提升加购转化率",
+    "days": 14,
+    "control": { "users": 120000 }, "treatment": { "users": 120000 },
+    "metrics": [
+      { "name": "加购率", "treatment": "8.9%", "control": "8.1%", "lift": "+9.9%", "isPrimary": true },
+      { "name": "详情页停留时长", "treatment": "86秒", "control": "74秒", "lift": "+16.2%", "isPrimary": false },
+      { "name": "页面加载失败率", "treatment": "0.41%", "control": "0.22%", "lift": "+86%", "isPrimary": false },
+      { "name": "下单转化率", "treatment": "2.31%", "control": "2.28%", "lift": "+1.3%", "isPrimary": false }
+    ] },
+  { "caseNo": "AB-2026-002", "experiment": "新人红包金额测试（15元 vs 10元）", "hypothesis": "更大红包提升新客首单转化",
+    "days": 7,
+    "control": { "users": 8000 }, "treatment": { "users": 8500 },
+    "metrics": [
+      { "name": "新客首单转化率", "treatment": "22.4%", "control": "21.8%", "lift": "+2.8%", "isPrimary": true },
+      { "name": "7日复购率", "treatment": "11.2%", "control": "11.5%", "lift": "-2.6%", "isPrimary": false },
+      { "name": "新客获取成本", "treatment": "38元", "control": "33元", "lift": "+15.2%", "isPrimary": false }
+    ] },
+  { "caseNo": "AB-2026-003", "experiment": "搜索结果页默认排序改为个性化推荐", "hypothesis": "个性化排序提升搜索点击率",
+    "days": 5,
+    "control": { "users": 32000 }, "treatment": { "users": 18000 },
+    "metrics": [
+      { "name": "搜索点击率", "treatment": "31.2%", "control": "30.6%", "lift": "+2.0%", "isPrimary": true },
+      { "name": "搜索无结果率", "treatment": "5.1%", "control": "5.0%", "lift": "+2%", "isPrimary": false }
+    ] },
+  { "caseNo": "AB-2026-004", "experiment": "下单页默认勾选运费险改为默认不勾选", "hypothesis": "取消默认勾选降低退货运费成本",
+    "days": 21,
+    "control": { "users": 210000 }, "treatment": { "users": 210000 },
+    "metrics": [
+      { "name": "运费险投保率", "treatment": "34%", "control": "89%", "lift": "-61.8%", "isPrimary": true },
+      { "name": "运费险赔付成本", "treatment": "0.9元/单", "control": "2.4元/单", "lift": "-62.5%", "isPrimary": false },
+      { "name": "退货率", "treatment": "7.8%", "control": "7.6%", "lift": "+2.6%", "isPrimary": false },
+      { "name": "客诉量（日均）", "treatment": "412", "control": "298", "lift": "+38.3%", "isPrimary": false }
+    ] }
+]

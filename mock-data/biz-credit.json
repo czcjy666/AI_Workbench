@@ -1,0 +1,14 @@
+[
+  { "caseNo": "CR-2026-001", "applicant": "林国栋", "appliedAmount": 30, "termMonths": 36, "purpose": "经营周转（五金店进货）",
+    "monthlyIncome": 28000, "monthlyDebt": 6000, "creditQueries": 2, "employment": "个体经营10年，月流水稳定", "note": "征信无逾期" },
+  { "caseNo": "CR-2026-002", "applicant": "周晓芸", "appliedAmount": 50, "termMonths": 24, "purpose": "装修",
+    "monthlyIncome": 35000, "monthlyDebt": 22000, "creditQueries": 4, "employment": "某科技公司产品经理，在职4年", "note": "另有房贷月供18000元" },
+  { "caseNo": "CR-2026-003", "applicant": "吴建军", "appliedAmount": 20, "termMonths": 12, "purpose": "资金周转",
+    "monthlyIncome": 15000, "monthlyDebt": 2000, "creditQueries": 9, "employment": "自由职业（网约车司机）",
+    "note": "近3个月征信查询9次，其中6家小额贷款机构；用途说明模糊" },
+  { "caseNo": "CR-2026-004", "applicant": "郑雅琪", "appliedAmount": 15, "termMonths": 12, "purpose": "购买钢琴",
+    "monthlyIncome": 18000, "monthlyDebt": 3000, "creditQueries": 1, "employment": "中学教师，在职8年", "note": "公积金连续缴纳" },
+  { "caseNo": "CR-2026-005", "applicant": "高志强", "appliedAmount": 80, "termMonths": 60, "purpose": "债务重组",
+    "monthlyIncome": 26000, "monthlyDebt": 19500, "creditQueries": 7, "employment": "某贸易公司销售总监",
+    "note": "现有信用贷3笔合计62万；申请用途为偿还其他贷款" }
+]

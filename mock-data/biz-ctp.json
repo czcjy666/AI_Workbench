@@ -1,0 +1,22 @@
+{
+  "leadDays": 12,
+  "rushLeadDays": 7,
+  "lines": [
+    { "name": "A产线（注塑+组装）", "dailyCapacity": 800, "occupied": [
+      { "date": "2026-10-27", "qty": 620 }, { "date": "2026-10-28", "qty": 750 },
+      { "date": "2026-10-29", "qty": 800 }, { "date": "2026-10-30", "qty": 540 },
+      { "date": "2026-10-31", "qty": 800 }, { "date": "2026-11-01", "qty": 300 }
+    ] },
+    { "name": "B产线（组装+包装）", "dailyCapacity": 500, "occupied": [
+      { "date": "2026-10-27", "qty": 200 }, { "date": "2026-10-28", "qty": 450 },
+      { "date": "2026-10-29", "qty": 500 }, { "date": "2026-10-30", "qty": 500 },
+      { "date": "2026-10-31", "qty": 120 }
+    ] }
+  ],
+  "materials": [
+    { "name": "外壳组件", "unit": "套", "available": 3200, "inbound": "11-02到货4000套", "warning": null },
+    { "name": "主控芯片", "unit": "颗", "available": 850, "inbound": "11-08到货2000颗", "warning": "当前库存仅够生产850件成品，11-08前无法支撑超850件的新订单" },
+    { "name": "电源适配器", "unit": "个", "available": 2600, "inbound": null, "warning": null },
+    { "name": "包装纸箱", "unit": "个", "available": 4100, "inbound": null, "warning": null }
+  ]
+}

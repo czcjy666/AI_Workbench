@@ -1,0 +1,984 @@
+[
+ {
+  "caseNo": "MC-2026001",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261001",
+   "supplier": "天翼数码",
+   "date": "2026-09-15",
+   "items": [
+    {
+     "name": "碎纸机",
+     "qty": 6,
+     "unitPrice": 679,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261001",
+   "date": "2026-09-25",
+   "items": [
+    {
+     "name": "碎纸机",
+     "qty": 6
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261001",
+   "date": "2026-09-25",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "碎纸机",
+     "qty": 6,
+     "unitPrice": 679,
+     "taxRate": 0.13,
+     "amount": 4074,
+     "tax": 529.62
+    }
+   ],
+   "totalAmount": 4074,
+   "totalTax": 529.62
+  }
+ },
+ {
+  "caseNo": "MC-2026002",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261002",
+   "supplier": "天翼数码",
+   "date": "2026-09-17",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 18,
+     "unitPrice": 99,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261002",
+   "date": "2026-09-27",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 18
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261002",
+   "date": "2026-09-27",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 18,
+     "unitPrice": 99,
+     "taxRate": 0.13,
+     "amount": 1782,
+     "tax": 231.66
+    }
+   ],
+   "totalAmount": 1782,
+   "totalTax": 231.66
+  }
+ },
+ {
+  "caseNo": "MC-2026003",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261003",
+   "supplier": "瑞丰实业",
+   "date": "2026-06-16",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 7,
+     "unitPrice": 694.92,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261003",
+   "date": "2026-06-26",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 7
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261003",
+   "date": "2026-06-26",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 7,
+     "unitPrice": 694.92,
+     "taxRate": 0.13,
+     "amount": 4864.44,
+     "tax": 632.38
+    }
+   ],
+   "totalAmount": 4864.44,
+   "totalTax": 632.38
+  }
+ },
+ {
+  "caseNo": "MC-2026004",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261004",
+   "supplier": "天翼数码",
+   "date": "2026-06-13",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 14,
+     "unitPrice": 99.66,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261004",
+   "date": "2026-06-23",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 14
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261004",
+   "date": "2026-06-23",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 14,
+     "unitPrice": 99.66,
+     "taxRate": 0.13,
+     "amount": 1395.24,
+     "tax": 181.38
+    }
+   ],
+   "totalAmount": 1395.24,
+   "totalTax": 181.38
+  }
+ },
+ {
+  "caseNo": "MC-2026005",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261005",
+   "supplier": "恒达百货",
+   "date": "2026-07-13",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 14,
+     "unitPrice": 96.33,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261005",
+   "date": "2026-07-23",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 14
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261005",
+   "date": "2026-07-23",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 14,
+     "unitPrice": 96.33,
+     "taxRate": 0.13,
+     "amount": 1348.62,
+     "tax": 175.32
+    }
+   ],
+   "totalAmount": 1348.62,
+   "totalTax": 175.32
+  }
+ },
+ {
+  "caseNo": "MC-2026006",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261006",
+   "supplier": "瑞丰实业",
+   "date": "2026-08-10",
+   "items": [
+    {
+     "name": "A4复印纸(箱)",
+     "qty": 3,
+     "unitPrice": 122.42,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261006",
+   "date": "2026-08-20",
+   "items": [
+    {
+     "name": "A4复印纸(箱)",
+     "qty": 3
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261006",
+   "date": "2026-08-20",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "A4复印纸(箱)",
+     "qty": 3,
+     "unitPrice": 122.42,
+     "taxRate": 0.13,
+     "amount": 367.26,
+     "tax": 47.74
+    }
+   ],
+   "totalAmount": 367.26,
+   "totalTax": 47.74
+  }
+ },
+ {
+  "caseNo": "MC-2026007",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261007",
+   "supplier": "天翼数码",
+   "date": "2026-06-12",
+   "items": [
+    {
+     "name": "碎纸机",
+     "qty": 14,
+     "unitPrice": 674.73,
+     "taxRate": 0.13
+    },
+    {
+     "name": "激光打印机",
+     "qty": 9,
+     "unitPrice": 1590.33,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261007",
+   "date": "2026-06-22",
+   "items": [
+    {
+     "name": "碎纸机",
+     "qty": 14
+    },
+    {
+     "name": "激光打印机",
+     "qty": 9
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261007",
+   "date": "2026-06-22",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "碎纸机",
+     "qty": 14,
+     "unitPrice": 674.73,
+     "taxRate": 0.13,
+     "amount": 9446.22,
+     "tax": 1228.01
+    },
+    {
+     "name": "激光打印机",
+     "qty": 9,
+     "unitPrice": 1590.33,
+     "taxRate": 0.13,
+     "amount": 14312.97,
+     "tax": 1860.69
+    }
+   ],
+   "totalAmount": 23759.19,
+   "totalTax": 3088.7
+  }
+ },
+ {
+  "caseNo": "MC-2026008",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261008",
+   "supplier": "锦程贸易",
+   "date": "2026-09-14",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 6,
+     "unitPrice": 691.56,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261008",
+   "date": "2026-09-24",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 6
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261008",
+   "date": "2026-09-24",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 6,
+     "unitPrice": 691.56,
+     "taxRate": 0.13,
+     "amount": 4149.36,
+     "tax": 539.42
+    }
+   ],
+   "totalAmount": 4149.36,
+   "totalTax": 539.42
+  }
+ },
+ {
+  "caseNo": "MC-2026009",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261009",
+   "supplier": "华辰办公设备",
+   "date": "2026-09-17",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 6,
+     "unitPrice": 746.09,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261009",
+   "date": "2026-09-27",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 6
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261009",
+   "date": "2026-09-27",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 6,
+     "unitPrice": 746.09,
+     "taxRate": 0.13,
+     "amount": 4476.54,
+     "tax": 581.95
+    }
+   ],
+   "totalAmount": 4476.54,
+   "totalTax": 581.95
+  }
+ },
+ {
+  "caseNo": "MC-2026010",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261010",
+   "supplier": "锦程贸易",
+   "date": "2026-08-17",
+   "items": [
+    {
+     "name": "碎纸机",
+     "qty": 9,
+     "unitPrice": 696.62,
+     "taxRate": 0.13
+    },
+    {
+     "name": "键盘鼠标套装",
+     "qty": 4,
+     "unitPrice": 95.91,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261010",
+   "date": "2026-08-27",
+   "items": [
+    {
+     "name": "碎纸机",
+     "qty": 9
+    },
+    {
+     "name": "键盘鼠标套装",
+     "qty": 4
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261010",
+   "date": "2026-08-27",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "碎纸机",
+     "qty": 9,
+     "unitPrice": 696.62,
+     "taxRate": 0.13,
+     "amount": 6269.58,
+     "tax": 815.05
+    },
+    {
+     "name": "键盘鼠标套装",
+     "qty": 4,
+     "unitPrice": 95.91,
+     "taxRate": 0.13,
+     "amount": 383.64,
+     "tax": 49.87
+    }
+   ],
+   "totalAmount": 6653.22,
+   "totalTax": 864.92
+  }
+ },
+ {
+  "caseNo": "MC-2026011",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261011",
+   "supplier": "恒达百货",
+   "date": "2026-09-13",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 9,
+     "unitPrice": 94.1,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261011",
+   "date": "2026-09-23",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 9
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261011",
+   "date": "2026-09-23",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 9,
+     "unitPrice": 94.1,
+     "taxRate": 0.13,
+     "amount": 846.9,
+     "tax": 110.1
+    }
+   ],
+   "totalAmount": 846.9,
+   "totalTax": 110.1
+  }
+ },
+ {
+  "caseNo": "MC-2026012",
+  "diffType": null,
+  "diffNote": null,
+  "po": {
+   "poNo": "PO-20261012",
+   "supplier": "恒达百货",
+   "date": "2026-08-17",
+   "items": [
+    {
+     "name": "A4复印纸(箱)",
+     "qty": 11,
+     "unitPrice": 125.95,
+     "taxRate": 0.13
+    },
+    {
+     "name": "键盘鼠标套装",
+     "qty": 10,
+     "unitPrice": 97.24,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261012",
+   "date": "2026-08-27",
+   "items": [
+    {
+     "name": "A4复印纸(箱)",
+     "qty": 11
+    },
+    {
+     "name": "键盘鼠标套装",
+     "qty": 10
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261012",
+   "date": "2026-08-27",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "A4复印纸(箱)",
+     "qty": 11,
+     "unitPrice": 125.95,
+     "taxRate": 0.13,
+     "amount": 1385.45,
+     "tax": 180.11
+    },
+    {
+     "name": "键盘鼠标套装",
+     "qty": 10,
+     "unitPrice": 97.24,
+     "taxRate": 0.13,
+     "amount": 972.4,
+     "tax": 126.41
+    }
+   ],
+   "totalAmount": 2357.85,
+   "totalTax": 306.52
+  }
+ },
+ {
+  "caseNo": "MC-2026013",
+  "diffType": "调价未同步",
+  "diffNote": "供应商已执行新价格，但PO未同步更新调价协议",
+  "po": {
+   "poNo": "PO-20261013",
+   "supplier": "锦程贸易",
+   "date": "2026-09-18",
+   "items": [
+    {
+     "name": "激光打印机",
+     "qty": 7,
+     "unitPrice": 1699.67,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261013",
+   "date": "2026-09-28",
+   "items": [
+    {
+     "name": "激光打印机",
+     "qty": 7
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261013",
+   "date": "2026-09-28",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "激光打印机",
+     "qty": 7,
+     "unitPrice": 1517.56,
+     "taxRate": 0.13,
+     "amount": 10622.92,
+     "tax": 1380.98
+    }
+   ],
+   "totalAmount": 10622.92,
+   "totalTax": 1380.98
+  }
+ },
+ {
+  "caseNo": "MC-2026014",
+  "diffType": "短收",
+  "diffNote": "部分货物尚未到库，发票按订单全量开票",
+  "po": {
+   "poNo": "PO-20261014",
+   "supplier": "锦程贸易",
+   "date": "2026-08-11",
+   "items": [
+    {
+     "name": "办公椅",
+     "qty": 15,
+     "unitPrice": 474.36,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261014",
+   "date": "2026-08-21",
+   "items": [
+    {
+     "name": "办公椅",
+     "qty": 12
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261014",
+   "date": "2026-08-21",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "办公椅",
+     "qty": 15,
+     "unitPrice": 474.36,
+     "taxRate": 0.13,
+     "amount": 7115.4,
+     "tax": 925
+    }
+   ],
+   "totalAmount": 7115.4,
+   "totalTax": 925
+  }
+ },
+ {
+  "caseNo": "MC-2026015",
+  "diffType": "重复开票",
+  "diffNote": "该发票号疑似与9月已入账发票重复（防重复付款）",
+  "po": {
+   "poNo": "PO-20261015",
+   "supplier": "盛源供应链",
+   "date": "2026-07-17",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 16,
+     "unitPrice": 92.99,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261015",
+   "date": "2026-07-27",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 16
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261001",
+   "date": "2026-07-27",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "键盘鼠标套装",
+     "qty": 16,
+     "unitPrice": 92.99,
+     "taxRate": 0.13,
+     "amount": 1487.84,
+     "tax": 193.42
+    }
+   ],
+   "totalAmount": 1487.84,
+   "totalTax": 193.42
+  }
+ },
+ {
+  "caseNo": "MC-2026016",
+  "diffType": "税额错误",
+  "diffNote": "发票适用税率9%与PO约定13%不符，税额少计",
+  "po": {
+   "poNo": "PO-20261016",
+   "supplier": "天翼数码",
+   "date": "2026-06-13",
+   "items": [
+    {
+     "name": "激光打印机",
+     "qty": 2,
+     "unitPrice": 1512.53,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261016",
+   "date": "2026-06-23",
+   "items": [
+    {
+     "name": "激光打印机",
+     "qty": 2
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261016",
+   "date": "2026-06-23",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "激光打印机",
+     "qty": 2,
+     "unitPrice": 1512.53,
+     "taxRate": 0.09,
+     "amount": 3025.06,
+     "tax": 272.26
+    }
+   ],
+   "totalAmount": 3025.06,
+   "totalTax": 272.26
+  }
+ },
+ {
+  "caseNo": "MC-2026017",
+  "diffType": "单位不一致",
+  "diffNote": "发票按\"包\"开票、PO按\"箱\"下单（1箱=5包），需换算核对",
+  "po": {
+   "poNo": "PO-20261017",
+   "supplier": "天翼数码",
+   "date": "2026-08-14",
+   "items": [
+    {
+     "name": "办公椅",
+     "qty": 11,
+     "unitPrice": 478.77,
+     "taxRate": 0.13
+    },
+    {
+     "name": "碎纸机",
+     "qty": 13,
+     "unitPrice": 668.76,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261017",
+   "date": "2026-08-24",
+   "items": [
+    {
+     "name": "办公椅",
+     "qty": 11
+    },
+    {
+     "name": "碎纸机",
+     "qty": 13
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261017",
+   "date": "2026-08-24",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "办公椅",
+     "qty": 55,
+     "unitPrice": 95.75,
+     "taxRate": 0.13,
+     "amount": 5266.25,
+     "tax": 684.64
+    },
+    {
+     "name": "碎纸机",
+     "qty": 13,
+     "unitPrice": 668.76,
+     "taxRate": 0.13,
+     "amount": 8693.88,
+     "tax": 1130.2
+    }
+   ],
+   "totalAmount": 13960.13,
+   "totalTax": 1814.84
+  }
+ },
+ {
+  "caseNo": "MC-2026018",
+  "diffType": "提前开票",
+  "diffNote": "发票已到但收货单尚未录入（货在途），三单缺一",
+  "po": {
+   "poNo": "PO-20261018",
+   "supplier": "锦程贸易",
+   "date": "2026-09-12",
+   "items": [
+    {
+     "name": "办公椅",
+     "qty": 7,
+     "unitPrice": 440.57,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": null,
+  "invoice": {
+   "invoiceNo": "INV-20261018",
+   "date": "2026-09-22",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "办公椅",
+     "qty": 7,
+     "unitPrice": 440.57,
+     "taxRate": 0.13,
+     "amount": 3083.99,
+     "tax": 400.92
+    }
+   ],
+   "totalAmount": 3083.99,
+   "totalTax": 400.92
+  }
+ },
+ {
+  "caseNo": "MC-2026019",
+  "diffType": "运费未单列",
+  "diffNote": "发票金额含200元运费，PO为含运到岸价，费用归属需确认",
+  "po": {
+   "poNo": "PO-20261019",
+   "supplier": "恒达百货",
+   "date": "2026-06-14",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 8,
+     "unitPrice": 720.66,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261019",
+   "date": "2026-06-24",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 8
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261019",
+   "date": "2026-06-24",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "显示器 24寸",
+     "qty": 8,
+     "unitPrice": 720.66,
+     "taxRate": 0.13,
+     "amount": 5965.28,
+     "tax": 749.49
+    }
+   ],
+   "totalAmount": 5965.28,
+   "totalTax": 749.49,
+   "_freightIncluded": 200
+  }
+ },
+ {
+  "caseNo": "MC-2026020",
+  "diffType": "擅自调价",
+  "diffNote": "发票单价高于PO约定15%，无任何调价依据",
+  "po": {
+   "poNo": "PO-20261020",
+   "supplier": "天翼数码",
+   "date": "2026-07-11",
+   "items": [
+    {
+     "name": "A4复印纸(箱)",
+     "qty": 15,
+     "unitPrice": 124.54,
+     "taxRate": 0.13
+    },
+    {
+     "name": "办公椅",
+     "qty": 14,
+     "unitPrice": 469.3,
+     "taxRate": 0.13
+    }
+   ]
+  },
+  "receipt": {
+   "receiptNo": "GRN-20261020",
+   "date": "2026-07-21",
+   "items": [
+    {
+     "name": "A4复印纸(箱)",
+     "qty": 15
+    },
+    {
+     "name": "办公椅",
+     "qty": 14
+    }
+   ]
+  },
+  "invoice": {
+   "invoiceNo": "INV-20261020",
+   "date": "2026-07-21",
+   "buyer": "演示科技有限公司",
+   "items": [
+    {
+     "name": "A4复印纸(箱)",
+     "qty": 15,
+     "unitPrice": 143.22,
+     "taxRate": 0.13,
+     "amount": 2148.3,
+     "tax": 279.28
+    },
+    {
+     "name": "办公椅",
+     "qty": 14,
+     "unitPrice": 469.3,
+     "taxRate": 0.13,
+     "amount": 6570.2,
+     "tax": 854.13
+    }
+   ],
+   "totalAmount": 8718.5,
+   "totalTax": 1133.41
+  }
+ }
+]

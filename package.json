@@ -1,0 +1,33 @@
+{
+  "name": "ai-workbench",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:gateway": "node apps/gateway/server.mjs",
+    "db:init": "node scripts/db/init.mjs",
+    "db:reset": "node scripts/db/init.mjs --reset",
+    "mock:resumes": "node scripts/mock/gen-resumes.mjs",
+    "mock:match": "node scripts/mock/gen-match.mjs",
+    "start": "node scripts/start-all.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "docx": "^9.14.0",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mammoth": "^1.13.0",
+    "mysql2": "^3.24.6",
+    "openai": "^7.43.0",
+    "pdf-parse": "^2.4.5",
+    "pdfkit": "^0.20.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "opencode-ai": "^1.19.4"
+  }
+}

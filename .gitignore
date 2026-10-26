@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+.oc-openapi.json
+# 含真实密钥，仅本地使用；模板见 opencode.example.json
+opencode.json
+# 含个人简历（手机/邮箱等隐私），仅本地使用；模板见 content/profile.example.md
+content/profile.md
+mock-data/resumes/files/
+dist/
+*.log

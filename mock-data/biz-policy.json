@@ -1,0 +1,44 @@
+[
+  {
+    "policies": [
+      { "name": "高新技术企业认定奖励", "dept": "科技局", "conditions": ["注册满1年", "研发费用占比≥3%", "拥有知识产权≥1项"], "benefit": "一次性奖励20万元", "materials": ["营业执照", "审计报告", "知识产权证书"] },
+      { "name": "专精特新中小企业培育", "dept": "工信局", "conditions": ["年营收1000万-4亿", "从事特定细分市场2年以上", "研发投入占比≥3%"], "benefit": "奖励30万元+贷款贴息", "materials": ["营业执照", "近两年审计报告", "细分市场说明"] },
+      { "name": "小微企业社保补贴", "dept": "人社局", "conditions": ["员工≤100人", "新招用就业人员并缴纳社保满1年"], "benefit": "每人每月800元社保补贴（最长2年）", "materials": ["营业执照", "社保缴纳记录", "新员工花名册"] },
+      { "name": "外贸企业出口信用保险补贴", "dept": "商务局", "conditions": ["年出口额≥50万美元", "投保短期出口信用险"], "benefit": "保费补贴60%（上限30万元）", "materials": ["营业执照", "出口报关单", "保险合同及发票"] },
+      { "name": "制造业数字化转型补贴", "dept": "经信局", "conditions": ["制造业企业", "实施数字化改造项目且投资≥100万元"], "benefit": "投资额20%补贴（上限100万元）", "materials": ["营业执照", "项目立项文件", "设备采购合同与发票"] },
+      { "name": "科技型中小企业研发费用加计扣除辅导", "dept": "税务局", "conditions": ["科技型中小企业入库登记", "有研发费用归集"], "benefit": "研发费用100%加计扣除", "materials": ["入库登记编号", "研发费用辅助账"] }
+    ],
+    "caseNo": "PP-2026-001", "company": "晨光精密制造有限公司",
+    "industry": "汽车零部件制造", "scale": "中型", "employees": 260, "revenue": "8600万元", "foundedYears": 12,
+    "qualifications": ["高新技术企业证书", "发明专利2项", "实用新型8项"], "rdRatio": "4.2%",
+    "extra": "2026年投资380万元实施MES改造；有出口业务（年出口额120万美元）"
+  },
+  {
+    "policies": "@SAME",
+    "caseNo": "PP-2026-002", "company": "小马快跑网络科技有限公司",
+    "industry": "互联网软件", "scale": "小型", "employees": 42, "revenue": "980万元", "foundedYears": 3,
+    "qualifications": ["软件著作权14项"], "rdRatio": "18%",
+    "extra": "尚无发明专利；去年刚开始盈利"
+  },
+  {
+    "policies": "@SAME",
+    "caseNo": "PP-2026-003", "company": "陈记食品有限公司",
+    "industry": "食品制造", "scale": "小型", "employees": 65, "revenue": "3200万元", "foundedYears": 8,
+    "qualifications": ["食品生产许可证", "ISO22000认证"], "rdRatio": "0.8%",
+    "extra": "2026年新招用脱贫人口22人并缴纳社保"
+  },
+  {
+    "policies": "@SAME",
+    "caseNo": "PP-2026-004", "company": "远洋家居用品有限公司",
+    "industry": "家居用品制造", "scale": "小型", "employees": 88, "revenue": "4100万元", "foundedYears": 6,
+    "qualifications": ["实用新型3项"], "rdRatio": "2.9%",
+    "extra": "研发占比刚好卡在3%边缘（财务口径不同有浮动）；主营单一品类6年"
+  },
+  {
+    "policies": "@SAME",
+    "caseNo": "PP-2026-005", "company": "蓝海贸易有限公司",
+    "industry": "商贸流通", "scale": "小型", "employees": 30, "revenue": "2200万元", "foundedYears": 5,
+    "qualifications": [], "rdRatio": "0%",
+    "extra": "出口额85万美元，未投保出口信用险；全部政策均不匹配的情形"
+  }
+]
